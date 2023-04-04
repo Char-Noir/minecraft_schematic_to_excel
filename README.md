@@ -17,3 +17,6 @@ Each sheet of the file represents one of the layers of the building. Each block 
 - Full support of schematics is planned;
 - Texture generator for Excel to reduce the volume of the project
 - The ability to view the model in the 3D world with low PC load.
+
+PS. This is only a prototype, so it only works on a limited piece of data that has been tested.
+At the moment, we are developing a complete tool for interacting with schematics from the game. 
