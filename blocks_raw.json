@@ -1,0 +1,1612 @@
+[ {
+    "name": "Stone",
+    "index": 1,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 36480,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "possibleDataValues": 7,
+    "data": 0
+}, {
+    "name": "Grass",
+    "index": 2,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 17792,
+    "type": "Grass",
+    "spritePaths": [-1,-1,-1],
+    "sprite":"block/full/grass.png"
+}, {
+    "name": "Dirt",
+    "index": 3,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 6400,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/dirt.png"
+}, {
+    "name": "Cobblestone",
+    "index": 4,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4352,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/cobblestone.png"
+}, {
+    "name": "Oak_Wood_Planks",
+    "index": 5,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 29824,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "possibleDataValues": 6,
+    "data": 0,
+    "sprite":"block/full/oak_planks.png"
+}, {
+    "name": "Oak_Sapling",
+    "index": 6,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 35840,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Bedrock",
+    "index": 7,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 1408,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Water",
+    "index": 8,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Water",
+    "index": 9,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Lava",
+    "index": 10,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Lava",
+    "index": 11,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Sand",
+    "index": 12,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 34688,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Gravel",
+    "index": 13,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 18304,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Gold_Ore",
+    "index": 14,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 17664,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Iron_Ore",
+    "index": 15,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 21760,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Coal_Ore",
+    "index": 16,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4224,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Wood",
+    "index": 17,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 25344,
+    "type": "Wood",
+    "spritePaths":-1,
+    "downsprite":"block/full/oak_log_top.png",
+    "upsprite":"block/full/oak_log.png"
+}, {
+    "name": "Leaves",
+    "index": 18,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 23808,
+    "type": "Leaves",
+    "spritePaths":-1
+}, {
+    "name": "Sponge",
+    "index": 19,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 36352,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Glass",
+    "index": 20,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 13056,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/glass.png"
+}, {
+    "name": "Lapis_Lazuli_Ore",
+    "index": 21,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 22528,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Lapis_Lazuli_Block",
+    "index": 22,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 22400,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Dispenser",
+    "index": 23,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 6784,
+    "type": "DispenserAndDropper",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1],
+    "data": 1
+}, {
+    "name": "Sandstone",
+    "index": 24,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 35072,
+    "type": "TopBottomSides",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Note_Block",
+    "index": 25,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 28416,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Bed",
+    "index": 26,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 640,
+    "type": "TopBottomSides",
+    "spritePaths": [-1, -1,-1,-1,-1,-1]
+}, {
+    "name": "PoweredRail",
+    "index": 27,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 33024,
+    "type": "RedstoneRail",
+    "spritePaths": [-1, -1]
+}, {
+    "name": "DetectorRail",
+    "index": 28,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 32768,
+    "type": "RedstoneRail",
+    "spritePaths": [-1, -1]
+}, {
+    "name": "Sticky_Piston",
+    "index": 29,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 29184,
+    "type": "Piston",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1],
+    "data": 1
+}, {
+    "name": "WebBlock",
+    "index": 30,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38912,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Tallgrass",
+    "index": 31,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 37632,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "deadbush",
+    "index": 32,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 6016,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Piston",
+    "index": 33,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 29056,
+    "type": "Piston",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1],
+    "data": 1
+}, {
+    "name": "piston_head",
+    "index": 34,
+    "type": "PistonExtension",
+    "spritePaths": [-1,-1,-1],
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1]
+}, {
+    "name": "White_Wool",
+    "index": 35,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 40960,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "possibleDataValues": 16,
+    "data": 0
+}, {
+    "name": "piston_extension",
+    "index": 36,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Dandelion",
+    "index": 37,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 11392,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "flower_rose",
+    "index": 38,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 12032,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Brown_Mushroom",
+    "index": 39,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 27008,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "mushroom_red",
+    "index": 40,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 27136,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Gold_Block",
+    "index": 41,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 17536,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Iron_Block",
+    "index": 42,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 21632,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Double_Stone_Slab",
+    "index": 43,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/smooth_stone_slab_side.png"
+}, {
+    "name": "Stone_Slab",
+    "index": 44,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 36736,
+    "type": "Slab",
+    "spritePaths":[-1,-1,-1,-1,-1,-1,-1,-1],
+    "upsprite":"block/cutted/stone_bricks_slab_up.png",
+    "downsprite":"block/cutted/stone_bricks_slab_down.png"
+}, {
+    "name": "Bricks",
+    "index": 45,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 1920,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "TNT",
+    "index": 46,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 37888,
+    "type": "TopBottomSides",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Bookshelf",
+    "index": 47,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 1536,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Moss_Stone",
+    "index": 48,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4480,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Obsidian",
+    "index": 49,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 28544,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Torch",
+    "index": 50,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38144,
+    "type": "Torch",
+    "spritePaths":-1
+}, {
+    "name": "Fire",
+    "index": 51,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Monster_Spawner",
+    "index": 52,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 26368,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Oak_Wood_Stairs",
+    "index": 53,
+    "type": "Stairs",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "spritePaths":-1,
+    "sprite":"block/cutted/oak_stairs.png"
+}, {
+    "name": "Chest",
+    "index": 54,
+    "type": "Chest",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "redstone_dust_cross",
+    "index": 55,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 33536,
+    "type": "RedstoneDust",
+    "spritePaths":-1
+}, {
+    "name": "Diamond_Ore",
+    "index": 56,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 6272,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Diamond_Block",
+    "index": 57,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 6144,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Crafting_Table",
+    "index": 58,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 5376,
+    "type": "TopBottomSidesFront",
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "Wheat",
+    "index": 59,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 39040,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Farmland",
+    "index": 60,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 10752,
+    "type": "TopSides",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Furnace",
+    "index": 61,
+    "type": "TopBottomSidesFront",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "lit_furnace",
+    "index": 62,
+    "type": "TopBottomSidesFront",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "standing_sign",
+    "index": 63,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Wooden_Door",
+    "index": 64,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 7296,
+    "type": "Door",
+    "spritePaths": [-1,-1],
+    "sprite":"block/full/oak_door_top.png"
+}, {
+    "name": "Ladder",
+    "index": 65,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 22272,
+    "type": "Ladder",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths":-1
+}, {
+    "name": "Rails",
+    "index": 66,
+    "type": "Rail",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1 ],
+    "sprite":"block/full/rail.png"
+}, {
+    "name": "Cobblestone_Stairs",
+    "index": 67,
+    "type": "Stairs",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "spritePaths":-1
+}, {
+    "name": "Wall_Sign",
+    "index": 68,
+    "type": "WallSign",
+    "spritePaths":-1
+}, {
+    "name": "Lever",
+    "index": 69,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 24192,
+    "type": "Lever",
+    "possibleDataValues": [0, 1, 2, 3, 4, 5, 6, 7],
+    "spritePaths": [-1,-1],
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1]
+}, {
+    "name": "Stone_Pressure_Plate",
+    "index": 70,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Iron_Door",
+    "index": 71,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 7040,
+    "type": "Door",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Wooden_Pressure_Plate",
+    "index": 72,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Redstone_Ore",
+    "index": 73,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "lit_redstone_ore",
+    "index": 74,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "redstone_torch_off",
+    "index": 75,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 34048,
+    "type": "Torch",
+    "possibleDataValues": [1, 2, 3, 4, 5],
+    "spritePaths":-1,
+    "data": 1
+}, {
+    "name": "Redstone_Torch",
+    "index": 76,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 34176,
+    "type": "Torch",
+    "possibleDataValues": [1, 2, 3, 4, 5],
+    "spritePaths":-1,
+    "data": 1
+}, {
+    "name": "Stone_Button",
+    "index": 77,
+    "type": "Button",
+    "spritePaths":-1,
+    "sprite":"block/cutted/stone_button.png"
+}, {
+    "name": "snow_layer",
+    "index": 78,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Ice",
+    "index": 79,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 21248,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Snow_Block",
+    "index": 80,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 36224,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Cactus",
+    "index": 81,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 2176,
+    "type": "TopBottomSides",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Clay_Block",
+    "index": 82,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 3968,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Sugar_Canes",
+    "index": 83,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 34304,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Jukebox",
+    "index": 84,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 22144,
+    "type": "TopBottomSides",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Fence",
+    "index": 85,
+    "type": "Fence",
+    "spritePaths":-1,
+    "sprite":"block/cutted/fence.png"
+}, {
+    "name": "Pumpkin",
+    "index": 86,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 30592,
+    "type": "TopBottomSidesFront",
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "Netherrack",
+    "index": 87,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Soul_Sand",
+    "index": 88,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Glowstone",
+    "index": 89,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/glowstone.png"
+}, {
+    "name": "Portal",
+    "index": 90,
+    "type": "Portal",
+    "directionalVectorByDataValue": [-1,-1,-1],
+    "spritePaths":-1
+}, {
+    "name": "pumpkin_face_on",
+    "index": 91,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 30720,
+    "type": "TopBottomSidesFront",
+    "spritePaths": [-1,-1,-1,-1],
+    "data": 0
+}, {
+    "name": "Cake",
+    "index": 92,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 2816,
+    "type": "Cake",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Redstone_Repe.nactive",
+    "index": 93,
+    "type": "Repeater",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "spritePaths": [-1,-1]
+}, {
+    "name": "repeater_on",
+    "index": 94,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 34560,
+    "type": "Repeater",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "spritePaths": [-1,-1]
+}, {
+    "name": "glass_black",
+    "index": 95,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 13184,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Trapdoor",
+    "index": 96,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38272,
+    "type": "Trapdoor",
+    "spritePaths":-1,
+    "sprite":"block/full/oak_trapdoor.png"
+}, {
+    "name": "monster_egg",
+    "index": 97,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Stone_Brick",
+    "index": 98,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 36864,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/full/stone_bricks.png"
+}, {
+    "name": "BrownMushroomCap",
+    "index": 99,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 26624,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "RedMushroomCap",
+    "index": 100,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 26752,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Iron_Bars",
+    "index": 101,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 21504,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Glass_Pane",
+    "index": 102,
+    "type": "GlassPane",
+    "spritePaths":-1,
+    "sprite":"block/cutted/glass_pane_top.png"
+}, {
+    "name": "Melon_Block",
+    "index": 103,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 25856,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "pumpkin_stem",
+    "index": 104,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "melon_stem_connected",
+    "index": 105,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 25984,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Vine",
+    "index": 106,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38656,
+    "type": "Vine",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1,-1,-1,-1],
+    "spritePaths":-1
+}, {
+    "name": "Fence_Gate",
+    "index": 107,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": "brick_stairs",
+    "index": 108,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "stone_brick_stairs",
+    "index": 109,
+    "type": "Stairs",
+    "spritePaths":-1,
+    "possibleDataValues": 8,
+    "sprite":"block/cutted/stone_bricks_stairs.png"
+}, {
+    "name": "Mycelium",
+    "index": 110,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 27264,
+    "type": "TopBottomSides",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Lily_Pad",
+    "index": 111,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38784,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Nether_Brick",
+    "index": 112,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 27520,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "nether_brick_fence",
+    "index": 113,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": "nether_brick_stairs",
+    "index": 114,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "Nether_Wart",
+    "index": 115,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 27904,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Enchanting_Table",
+    "index": 116,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 10112,
+    "type": "EnchantingTable",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": ".ng_Stand",
+    "index": 117,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 1664,
+    "type": ".ngStand",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Cauldron",
+    "index": 118,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 3712,
+    "type": "Cauldron",
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "End_Portal",
+    "index": 119,
+    "type": "Sprite",
+    "spritePaths": ""
+}, {
+    "name": "End_Portal_Frame",
+    "index": 120,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 10624,
+    "type": "EnderFrame",
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "End_Stone",
+    "index": 121,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 10240,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "dragon_egg",
+    "index": 122,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Redstone_Lamp",
+    "index": 123,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 33792,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "redstone_lamp_on",
+    "index": 124,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 33920,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "double_wooden_slab",
+    "index": 125,
+    "type": "UniformBlock",
+    "spritePaths":-1,
+    "sprite":"block/cutted/oak_slab_db.png"
+}, {
+    "name": "wooden_slab",
+    "index": 126,
+    "type": "Slab",
+    "spritePaths":-1,
+    "downsprite": "block/cutted/oak_slab_down.png",
+    "upsprite":"block/cutted/oak_slab_up.png"
+}, {
+    "name": "Cocoa_Plant",
+    "index": 127,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4864,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "sandstone_stairs",
+    "index": 128,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "Emerald_Ore",
+    "index": 129,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 9728,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Ender_Chest",
+    "index": 130,
+    "type": "Chest",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": ".re_Hook",
+    "index": 131,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38528,
+    "type": ".reHook",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "possibleDataValues": 16,
+    "spritePaths": [-1,-1]
+}, {
+    "name": ".re",
+    "index": 132,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 38400,
+    "type": ".re",
+    "spritePaths":-1
+}, {
+    "name": "Emerald_Block",
+    "index": 133,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 9600,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "spruce_stairs",
+    "index": 134,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": ".rch_stairs",
+    "index": 135,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "jungle_stairs",
+    "index": 136,
+    "type": "Stairs",
+    "spritePaths":-1,
+    "sprite":"block/cutted/jungle_stairs.png"
+}, {
+    "name": "Command_Block",
+    "index": 137,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4992,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Beacon",
+    "index": 138,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 512,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Cobblestone_Wall",
+    "index": 139,
+    "type": "Wall",
+    "spritePaths":-1,
+    "sprite":"block/cutted/cobblestone_wall.png"
+}, {
+    "name": "Flower_Pot",
+    "index": 140,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 11904,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Carrots",
+    "index": 141,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 3328,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Potatoes",
+    "index": 142,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 30464,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "wooden_button",
+    "index": 143,
+    "type": "Button",
+    "spritePaths":-1
+}, {
+    "name": "skull",
+    "index": 144,
+    "type": "Head",
+    "spritePaths":-1
+}, {
+    "name": "Anvil",
+    "index": 145,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 0,
+    "type": "Anvil",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "trapped_chest",
+    "index": 146,
+    "type": "Chest",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1]
+}, {
+    "name": "light_weighted_pressure_plate",
+    "index": 147,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Weighted_Pressure_Plate",
+    "index": 148,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "unpowered_comparator",
+    "index": 149,
+    "type": "Comparator",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Comparator",
+    "index": 150,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 5248,
+    "type": "Comparator",
+    "directionalVectorByDataValue": [-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Daylight_Sensor",
+    "index": 151,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 5888,
+    "type": "DaylightDetector",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Redstone_Block",
+    "index": 152,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Nether_Quartz_Ore",
+    "index": 153,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Hopper",
+    "index": 154,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 20864,
+    "type": "Hopper",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Quartz_Block",
+    "index": 155,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 32e3,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "quartz_stairs",
+    "index": 156,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "ActivatorRail",
+    "index": 157,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 32512,
+    "type": "RedstoneRail",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Dropper",
+    "index": 158,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 9344,
+    "type": "DispenserAndDropper",
+    "directionalVectorByDataValue": [-1,-1,-1,-1,-1,-1],
+    "spritePaths": [-1,-1,-1,-1],
+    "data": 1
+}, {
+    "name": "hardened_clay_stained",
+    "index": 159,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 18560,
+    "type": "UniformBlock",
+    "spritePaths":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
+
+  ,  "possibleDataValues": 16
+}, {
+    "name": "stained_glass_pane",
+    "index": 160,
+    "type": "GlassPane",
+    "spritePaths":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
+    "sprite":"block/cutted/glass_pane_top.png"
+
+  ,  "possibleDataValues": 16,
+    "data": 0
+}, {
+    "name": "leaves_acacia_opaque",
+    "index": 161,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 22784,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "log_acacia",
+    "index": 162,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 24320,
+    "type": "Wood",
+    "spritePaths":[[-1,-1], [-1,-1], [-1,-1]]
+
+}, {
+    "name": "acacia_stairs",
+    "index": 163,
+    "type": "Stairs",
+    "spritePaths":-1,
+    "sprite":"block/cutted/acacia_stairs.png"
+}, {
+    "name": "dark_oak_stairs",
+    "index": 164,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "Slime_Block",
+    "index": 165,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "barrier",
+    "index": 166,
+    "type": "UniformBlock",
+    "spritePaths": ""
+}, {
+    "name": "iron_trapdoor",
+    "index": 167,
+    "type": "Trapdoor",
+    "spritePaths":-1
+}, {
+    "name": "Prismarine",
+    "index": 168,
+    "type": "Prismarine",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "Sea_Lantern",
+    "index": 169,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Hay_Bale",
+    "index": 170,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 20608,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Carpet",
+    "index": 171,
+    "type": "Flat",
+    "spritePaths":-1
+}, {
+    "name": "Hardened_Clay",
+    "index": 172,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 18432,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Coal_Block",
+    "index": 173,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 4096,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "P.ce",
+    "index": 174,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 21376,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "double_plant_fern_bottom",
+    "index": 175,
+    "width": 128,
+    "height": 128,
+    "x": 0,
+    "y": 7552,
+    "type": "TallSprite",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Standing Banner",
+    "index": 176,
+    "type": "TallSprite",
+    "spritePaths":-1
+}, {
+    "name": "Wall Banner",
+    "index": 177,
+    "type": "TallSprite",
+    "spritePaths":-1
+}, {
+    "name": "Inverted Daylight Detector",
+    "index": 178,
+    "type": "DaylightDetector",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Red Sandstone",
+    "index": 179,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Red Sandstone Stairs",
+    "index": 180,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "Double Red Sandstone Slab",
+    "index": 181,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Red Sandstone Slab",
+    "index": 182,
+    "type": "Slab",
+    "spritePaths":-1,
+    "upsprite":"block/cutted/stone_bricks_slab_up.png",
+    "downsprite":"block/cutted/stone_bricks_slab_down.png"
+}, {
+    "name": "Spruce Fence Gate",
+    "index": 183,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": ".rch Fence Gate",
+    "index": 184,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": "Jungle Fence Gate",
+    "index": 185,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": "Dark Oak Fence Gate",
+    "index": 186,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": "Acacia Fence Gate",
+    "index": 187,
+    "type": "FenceGate",
+    "spritePaths":-1
+}, {
+    "name": "Spruce Fence",
+    "index": 188,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": ".rch Fence",
+    "index": 189,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": "Jungle Fence",
+    "index": 190,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": "Dark Oak Fence",
+    "index": 191,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": "Acacia Fence",
+    "index": 192,
+    "type": "Fence",
+    "spritePaths":-1
+}, {
+    "name": "Spruce Door",
+    "index": 193,
+    "type": "Door",
+    "spritePaths":-1
+}, {
+    "name": ".rch Door",
+    "index": 194,
+    "type": "Door",
+    "spritePaths":-1
+}, {
+    "name": "Jungle Door",
+    "index": 195,
+    "type": "Door",
+    "spritePaths":-1
+}, {
+    "name": "Acacia Door",
+    "index": 196,
+    "type": "Door",
+    "spritePaths":-1
+}, {
+    "name": "Dark Oak Door",
+    "index": 197,
+    "type": "Door",
+    "spritePaths":-1
+}, {
+    "name": "End Rod",
+    "index": 198,
+    "type": "Torch",
+    "spritePaths":-1
+}, {
+    "name": "Chorus Plant",
+    "index": 199,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Chorus Flower",
+    "index": 200,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Purpur Block",
+    "index": 201,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Purpur Pillar",
+    "index": 202,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Purpur Stairs",
+    "index": 203,
+    "type": "Stairs",
+    "spritePaths":-1
+}, {
+    "name": "Purpur Double Slab",
+    "index": 204,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Purpur Slab",
+    "index": 205,
+    "type": "Slab",
+    "spritePaths":-1,
+    "upsprite":"block/cutted/stone_bricks_slab_up.png",
+    "downsprite":"block/cutted/stone_bricks_slab_down.png"
+}, {
+    "name": "End Stone Bricks",
+    "index": 206,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Beetroot Seeds",
+    "index": 207,
+    "type": "Sprite",
+    "spritePaths":-1
+}, {
+    "name": "Grass Path",
+    "index": 208,
+    "type": "Grass",
+    "spritePaths": [-1,-1,-1]
+}, {
+    "name": "End Gateway",
+    "index": 209,
+    "type": "UniformBlock",
+    "spritePaths": ""
+}, {
+    "name": "Repeating Command Block",
+    "index": 210,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Chain Command Block",
+    "index": 211,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Frosted Ice",
+    "index": 212,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Magma Block",
+    "index": 213,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Nether Wart Block",
+    "index": 214,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Red Nether Brick",
+    "index": 215,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}, {
+    "name": "Bone Block",
+    "index": 216,
+    "type": "Column",
+    "spritePaths": [-1,-1]
+}, {
+    "name": "Structure Void",
+    "index": 217,
+    "type": "UniformBlock",
+    "spritePaths": ""
+}, {
+    "name": "Structure Block",
+    "index": 255,
+    "type": "UniformBlock",
+    "spritePaths":-1
+}]
